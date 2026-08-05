@@ -1,6 +1,6 @@
 # Niyantran — Tech Lead take-home
 
-**Submitted by:** _<!-- replace with your name before sending -->_
+**Submitted by:** Sahil Navadiya
 
 | | Deliverable | |
 | --- | --- | --- |
